@@ -3,5 +3,3 @@ pandas
 uk_covid19
 voila
 requests
-time
-os
