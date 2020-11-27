@@ -2,7 +2,6 @@ matplotlib
 pandas
 uk_covid19
 voila
-io
 requests
 time
 os
